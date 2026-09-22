@@ -6,16 +6,16 @@ I am interested in the part of data science that begins before a model is built:
 
 ## Featured project
 
-### [WaveWatch Operations](https://github.com/AlejandroDelgadoGonzalez/wavewatch-operations)
+### [WaveWatch Operations](https://github.com/WaveWatchOps/wavewatch-operations)
 
-An event-driven operations analytics simulator for a completely fictional water park. WaveWatch models staffing rotations, breaks, assignments, handoffs, and operational delays using synthetic data.
+Co-developed with [Jesus-dg](https://github.com/Jesus-dg), WaveWatch is an event-driven operations analytics simulator for a completely fictional water park. It models staffing rotations, breaks, assignments, handoffs, and operational delays using synthetic data.
 
 - Models 74 synthetic employees across 17 rotations, 12 attractions, and four fictional zones.
 - Generates seven completed operating days and 765 handoff records for descriptive analytics.
 - Separates confirmed, calculated, and expected information so estimates are not presented as facts.
 - Includes automated tests and a deterministic simulator for normal and delayed scenarios.
 
-[Open the live demo](https://wavewatch-operations.alejandrodelgagonza.chatgpt.site/) | [View the source code](https://github.com/AlejandroDelgadoGonzalez/wavewatch-operations)
+[Open the live demo](https://wavewatch-operations.alejandrodelgagonza.chatgpt.site/) | [View the source code](https://github.com/WaveWatchOps/wavewatch-operations)
 
 ## Current focus
 
